@@ -10,11 +10,15 @@ h1{
 	text-align: center;
 	front-family:mv boli;
 	background-color: black;
-	text-shadow: 3px 0 0 #d00, 3px 3px 0 #d00, 0 3px 0 #d00, -3px 3px 0 #d00, -3px 0 0 #d00, -3px -3px 0 #d00, 0 -3px 0 #d00, 3px -3px 0 #d00;
+	c
     front-seize:200px;
 }
 
 body{
-	background-image: url("fruit de demon.jpg");
+	background-image: url("bleu.jfif");
 
 }
+ a{
+ 	background-color: darkblue;
+ 	color: white;
+ }
